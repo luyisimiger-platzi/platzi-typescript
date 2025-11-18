@@ -1,2 +1,4 @@
 web/public/scripts
 react/
+node_modules/
+package-lock.json
